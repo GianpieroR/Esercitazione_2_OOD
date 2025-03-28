@@ -1,3 +1,8 @@
+rational.cpp
+rational.hpp
+stack.cpp
+stack_template.cpp
+stack_template_better.cpp
 Debug
 .DS_Store
 ../.DS_Store
